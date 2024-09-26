@@ -33,6 +33,7 @@ const userRights = [
   },
 ];
 
+// dit is comment
 module.exports = {
   users,
   rights,
